@@ -45,11 +45,17 @@ install.packages(‘quanteda’)
 ## Day 2: Quantitative Text Analysis and Topic Modeling
 
 + Morning Session: Introduction to Automatic Text Analysis
-  + Slides: [TBA]
-  + Handouts: [[Text anlaysis with Quanteda](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md#step-1-importing-text-and-creating-a-quanteda-corpus)]
+  + Slides: 
+	[[Preprocessing](https://docs.google.com/presentation/d/11MuZe1qVrOPNRnvFTP7ffT5E_AJM0Cly6r6nAxSC4bM/edit?usp=sharing)]
+  + Handouts: 
+	[[Text analysis with Quanteda](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md#step-1-importing-text-and-creating-a-quanteda-corpus)]
 + Afternoon Session: Running and Validating Topic Models
-  + Slides: [TBA]
-  + Handouts: [TBA]
+  + Slides: 
+	[[Topic modeling](https://docs.google.com/presentation/d/1nRT5bmtkNDhcUATU61pW4TIuKQC59QMbjY8dpPEeMrQ/edit?usp=sharing)]
+        [[Validation](https://docs.google.com/presentation/d/1VvckL6NGsh1Q_ekEAGqYoNCwLD1g1BmbSSsCKxnUqB8/edit?usp=sharing)]
+  + Handouts: 
+	[[LDA topic modeling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_lda.md)]
+	[[Topic browsers](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_topicbrowser.md)]
 
 ## Day 3: Advanced issues in Topic Modeling
 
