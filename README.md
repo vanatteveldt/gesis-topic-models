@@ -12,6 +12,7 @@ All material is free to re-use under the [CC-BY](LICENSE.md) license.
 + [Text Analysis in R](http://vanatteveldt.com/p/welbers-text-r.pdf) - Our tutorial on quantitative text anlaysis
 + [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/) - Summaries of useful R commands
 + [ggplot Gallery](https://www.r-graph-gallery.com/ggplot2-package.html) and [data-to-viz](https://www.data-to-viz.com/) for inspiration on visualization
++ [r-course-material](https://github.com/ccs-amsterdam/r-course-material) - Our handouts on tidyverse, statistics, and text analysis in R
 
 ## Preparation
 
