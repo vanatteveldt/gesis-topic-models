@@ -4,6 +4,8 @@ Welcome to the 2019 GESIS workshop on Topic Modeling.
 
 This page will be used to distribute the slides, handouts, and other materials for this course.
 
+All material is free to re-use under the [CC-BY](LICENSE.md) license. 
+
 ## Useful links
 
 + [R for Data Science](https://r4ds.had.co.nz) - A free online book on data analysis in R
