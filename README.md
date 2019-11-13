@@ -8,7 +8,8 @@ This page will be used to distribute the slides, handouts, and other materials f
 
 + [R for Data Science](https://r4ds.had.co.nz) - A free online book on data analysis in R
 + [Text Analysis in R](http://vanatteveldt.com/p/welbers-text-r.pdf) - Our tutorial on quantitative text anlaysis
-+ [RStudio Cheat Sheets]()
++ [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/) - Summaries of useful R commands
++ [ggplot Gallery](https://www.r-graph-gallery.com/ggplot2-package.html) and [data-to-viz](https://www.data-to-viz.com/) for inspiration on visualization
 
 ## Preparation
 
