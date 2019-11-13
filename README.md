@@ -45,7 +45,7 @@ install.packages(‘quanteda’)
 
 + Morning Session: Introduction to Automatic Text Analysis
   + Slides: [TBA]
-  + Handouts: [TBA]
+  + Handouts: [[Text anlaysis with Quanteda](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_3_quanteda.md#step-1-importing-text-and-creating-a-quanteda-corpus)]
 + Afternoon Session: Running and Validating Topic Models
   + Slides: [TBA]
   + Handouts: [TBA]
