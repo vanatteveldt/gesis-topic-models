@@ -69,5 +69,5 @@ install.packages(‘quanteda’)
   [[Understanding alpha](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/understanding_alpha.md)]
   [[Gibbs Sampling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/gibbs.R)]
 + Afternoon Session: Structural Topic Models
-  + Slides: [TBA]
+  + Slides: [[LDA Variants & Structural Topic Models](https://docs.google.com/presentation/d/1rp9BwFGJV0E56xCdQoQWfju46Yk4ix5uLYP-4MHfJ-Y/edit?usp=sharing)]
   + Handouts: [[Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)]
