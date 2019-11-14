@@ -70,4 +70,4 @@ install.packages(‘quanteda’)
   [[Gibbs Sampling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/gibbs.R)]
 + Afternoon Session: Structural Topic Models
   + Slides: [TBA]
-  + Handouts: [TBA]
+  + Handouts: [[Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)]
