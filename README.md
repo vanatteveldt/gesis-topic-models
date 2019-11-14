@@ -71,3 +71,4 @@ install.packages(‘quanteda’)
 + Afternoon Session: Structural Topic Models
   + Slides: [[LDA Variants & Structural Topic Models](https://docs.google.com/presentation/d/1rp9BwFGJV0E56xCdQoQWfju46Yk4ix5uLYP-4MHfJ-Y/edit?usp=sharing)]
   + Handouts: [[Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)]
+    [[STM Vignette](https://github.com/bstewart/stm/blob/master/inst/doc/stmVignette.pdf?raw=true)]
