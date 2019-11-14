@@ -60,11 +60,14 @@ install.packages(‘quanteda’)
 ## Day 3: Advanced issues in Topic Modeling
 
 + Morning Session 1: Technical Details of Topic Modeling
-  + Slides: [TBA]
-  + Handouts: [TBA]
-+ Morning Session 2: Structural Topic Models
-  + Slides: [TBA]
-  + Handouts: [TBA]
-+ Afternoon Session: Linguistic Processing
+  + Slides:
+    [[Technical Details of LDA](https://docs.google.com/presentation/d/171QIqkYDo2fR48mkGmPeoeHkp58xhRDXXtcrOTh3l-o/edit?usp=sharing)]
+    [[Validation and Perplexity]()]
+  + Handouts: 
+  [[SVD](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/SVD.md)] 
+  [[Iterations Animated](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/gibbs_animate.R)]
+  [[Understanding alpha](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/understanding_alpha.md)]
+  [[Gibbs Sampling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/gibbs.R)]
++ Afternoon Session: Structural Topic Models
   + Slides: [TBA]
   + Handouts: [TBA]
