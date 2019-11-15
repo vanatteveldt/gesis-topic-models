@@ -13,7 +13,7 @@ All material is free to re-use under the [CC-BY](LICENSE.md) license.
 + [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/) - Summaries of useful R commands
 + [ggplot Gallery](https://www.r-graph-gallery.com/ggplot2-package.html) and [data-to-viz](https://www.data-to-viz.com/) for inspiration on visualization
 + [r-course-material](https://github.com/ccs-amsterdam/r-course-material) - Our handouts on tidyverse, statistics, and text analysis in R
-+ [rvest blog post from the author](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/) [rvest mini demo](https://gist.github.com/vanatteveldt/ad6e6960eeac9ebd03b7ab1ce983008f)
++ Rvest: [[blog post from the author](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)] [[mini demo](https://gist.github.com/vanatteveldt/ad6e6960eeac9ebd03b7ab1ce983008f)]
 
 ## Preparation
 
