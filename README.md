@@ -14,6 +14,8 @@ All material is free to re-use under the [CC-BY](LICENSE.md) license.
 + [ggplot Gallery](https://www.r-graph-gallery.com/ggplot2-package.html) and [data-to-viz](https://www.data-to-viz.com/) for inspiration on visualization
 + [r-course-material](https://github.com/ccs-amsterdam/r-course-material) - Our handouts on tidyverse, statistics, and text analysis in R
 + Rvest: [[blog post from the author](https://blog.rstudio.com/2014/11/24/rvest-easy-web-scraping-with-r/)] [[mini demo](https://gist.github.com/vanatteveldt/ad6e6960eeac9ebd03b7ab1ce983008f)]
++ Our paper on [[Automatic Text Analysis](http://vanatteveldt.com/p/atteveldt_ore_automatictextanalysis.pdf)] 
+
 
 ## Preparation
 
