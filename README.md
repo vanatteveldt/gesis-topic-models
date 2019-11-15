@@ -62,12 +62,13 @@ install.packages(‘quanteda’)
 + Morning Session 1: Technical Details of Topic Modeling
   + Slides:
     [[Technical Details of LDA](https://docs.google.com/presentation/d/171QIqkYDo2fR48mkGmPeoeHkp58xhRDXXtcrOTh3l-o/edit?usp=sharing)]
-    [[Validation and Perplexity]()]
+    [[Validation and Perplexity](https://docs.google.com/presentation/d/1v46wjjlQifmHxlRerVUVAuZqosz-cjxFUtbqb3klRAs/edit?usp=sharing)]
   + Handouts: 
   [[SVD](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/SVD.md)] 
   [[Iterations Animated](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/gibbs_animate.R)]
   [[Understanding alpha](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/understanding_alpha.md)]
   [[Gibbs Sampling](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/gibbs.R)]
+  [[Determining the number of topics](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/R_text_LDA_perplexity.md)]
 + Afternoon Session: Structural Topic Models
   + Slides: [[LDA Variants & Structural Topic Models](https://docs.google.com/presentation/d/1rp9BwFGJV0E56xCdQoQWfju46Yk4ix5uLYP-4MHfJ-Y/edit?usp=sharing)]
   + Handouts: [[Structural Topic Models](https://github.com/ccs-amsterdam/r-course-material/blob/master/tutorials/r_text_stm.md)]
